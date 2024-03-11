@@ -1,0 +1,62 @@
+html{
+    font-size: 62.5%;
+}
+body{
+    background-color:rgb(46, 43, 43)
+}
+.section-main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#main-title{
+    font-size: 4rem;
+    color: #fff;
+}
+.insert-task{
+    border-radius: 1.5rem;
+    height: 3rem;
+    width: 42rem;
+}
+.addElement{
+    height: 3rem;
+    width: 4.3rem;
+    margin-left: 0.5rem;
+    background-color: rgb(72, 160, 94);
+    border-radius: 1rem;
+    border: solid #fff 0.2rem;
+    color: #fff;
+}
+.section-list{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    margin-top: 2rem;
+}
+.task-area{
+    display: flex;
+    flex-direction: row;
+}
+.task-section{
+    display: flex;
+    flex-direction: column;
+    background-color:white; 
+    width:27rem; 
+    height: 6rem; 
+    margin-top:2rem;
+    border-radius: 0.7rem;
+}
+.remove-task{
+    margin-top:2rem;
+    margin-left: 1rem;
+    color: #fff;
+    background-color: #ff0000;
+    border-radius: 1rem;
+    border: solid #fff 0.2rem;
+    height: 6rem;
+    width: 6rem;
+}
+.task-text{
+    font-size: 2rem;
+    margin-left: 2rem;
+}
