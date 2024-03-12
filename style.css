@@ -56,6 +56,26 @@ body{
     height: 6rem;
     width: 6rem;
 }
+.edit-task{
+    margin-top:2rem;
+    margin-left: 1rem;
+    color: #fff;
+    background-color: #2b28d4;
+    border-radius: 1rem;
+    border: solid #fff 0.2rem;
+    height: 6rem;
+    width: 6rem;
+}
+.confirm-edit{
+    margin-top:2rem;
+    margin-left: 1rem;
+    color: #fff;
+    background-color: #28d470;
+    border-radius: 1rem;
+    border: solid #fff 0.2rem;
+    height: 6rem;
+    width: 7rem;
+}
 .task-text{
     font-size: 2rem;
     margin-left: 2rem;
